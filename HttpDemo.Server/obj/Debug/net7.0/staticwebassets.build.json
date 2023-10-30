@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KnEvzA9OqwvCKT1F2+8kjklcnGqMlkXDXRSsntxszZs=",
+  "Source": "HttpDemo.Server",
+  "BasePath": "_content/HttpDemo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

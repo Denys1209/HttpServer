@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpDemo.Server", "HttpDemo.Server\HttpDemo.Server.csproj", "{AF78A22D-5F16-49BE-98C0-F8A54443B592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpDemo.Client", "HttpDemo.Client\HttpDemo.Client.csproj", "{87D29F40-3603-486F-B43C-381B5F02B505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpDemo.Shared", "HttpDemo.Shared\HttpDemo.Shared.csproj", "{D26FACB7-80AB-47C9-80E3-C4A5837A67BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF78A22D-5F16-49BE-98C0-F8A54443B592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF78A22D-5F16-49BE-98C0-F8A54443B592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF78A22D-5F16-49BE-98C0-F8A54443B592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF78A22D-5F16-49BE-98C0-F8A54443B592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D29F40-3603-486F-B43C-381B5F02B505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D29F40-3603-486F-B43C-381B5F02B505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D29F40-3603-486F-B43C-381B5F02B505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D29F40-3603-486F-B43C-381B5F02B505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26FACB7-80AB-47C9-80E3-C4A5837A67BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26FACB7-80AB-47C9-80E3-C4A5837A67BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26FACB7-80AB-47C9-80E3-C4A5837A67BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26FACB7-80AB-47C9-80E3-C4A5837A67BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
